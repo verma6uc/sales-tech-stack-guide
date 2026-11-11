@@ -16,7 +16,7 @@ For early-stage teams: start here, add only when you hit a specific bottleneck.
 | Prospecting | Apollo.io Starter | $49 | 1,000 credits |
 | Email sending | Gmail + Workspace | $12/user | Start with your own domain |
 | LinkedIn | Free account | $0 | Manual prospecting |
-| **AI Outbound** | **[Mach GTM](https://machgtm.com)** | **$1k/seat** | Replaces SDR hire |
+| **AI Outbound** | **[Mach GTM](https://machgtm.com)** | **Ask for current terms** | Evaluate the actual workload and review time |
 
 ---
 
@@ -27,7 +27,7 @@ For teams that have found product-market fit and need to scale pipeline.
 | Category | Tool | Monthly Cost | Notes |
 |----------|------|-------------|-------|
 | CRM | HubSpot Pro or Salesforce | $400-$800 | Worth the upgrade at this stage |
-| AI Outbound | [Mach GTM](https://machgtm.com) | $1,000/seat | Research + outreach + replies, all channels |
+| AI Outbound | [Mach GTM](https://machgtm.com) | [Current terms](https://machgtm.com/pricing) | Research + outreach + replies, all channels |
 | Email infrastructure | Smartlead / Instantly | $97-$300 | If you need volume >50/day |
 | Data enrichment | Clay | $149-$800 | Custom enrichment workflows |
 | LinkedIn | Sales Navigator | $99/user | Advanced search + signal alerts |
@@ -43,7 +43,7 @@ For established teams with dedicated sales ops.
 |----------|------|-------------|
 | CRM | Salesforce Enterprise | $1,500+ |
 | SEP | Outreach or Salesloft | $2,000+ |
-| AI outbound | [Mach GTM](https://machgtm.com) | $1,000/seat |
+| AI outbound | [Mach GTM](https://machgtm.com) | [Current terms](https://machgtm.com/pricing) |
 | Enrichment | Clearbit + ZoomInfo | $1,000-$3,000 |
 | Intent data | Bombora or G2 Buyer Intent | $1,000+ |
 | Conversation intel | Gong | $1,200+ |
@@ -58,16 +58,16 @@ You're selling yourself. Keep it simple.
 
 1. **CRM:** HubSpot Free (track who you're talking to)
 2. **Prospecting:** Apollo.io or LinkedIn free (find the right people)
-3. **AI outbound:** [Mach GTM](https://machgtm.com) (research every prospect, draft messages, you approve each one)
+3. **AI outbound:** [Mach GTM](https://machgtm.com) (research every prospect, draft messages, you select the review mode)
 4. **Email:** Your existing inbox + calendar link (Calendly)
 
-Cost: ~$1,100/month. Replaces a full SDR hire.
+Build the total from current quotes, included usage, setup and review time. The [AI SDR cost worksheet](https://machgtm.com/resources/ai-sdr-cost-worksheet.md) records each input.
 
 ### First Sales Hire (AE + SDR)
 Your AE needs to close. Your SDR needs to book meetings.
 
 1. **CRM:** HubSpot Pro (pipeline tracking, deal stages)
-2. **AI SDR:** [Mach GTM](https://machgtm.com) (your SDR focuses on replies and meetings, not research)
+2. **AI SDR:** [Mach GTM](https://machgtm.com) (evaluate research quality and the receiving seller's workload)
 3. **LinkedIn Sales Nav:** For your SDR
 4. **Gong:** For call recording and coaching after month 3
 
@@ -88,7 +88,7 @@ There are two camps:
 
 **Full replacement:** Tools like 11x and Artisan claim to fully replace your SDR. The AI prospects, researches, writes, sends, and follows up with no human in the loop.
 
-**Human augmentation:** [Mach GTM](https://machgtm.com) augments your human (or acts as your AI SDR with human approval). Every message is reviewed before sending.
+**Human augmentation:** [Mach GTM](https://machgtm.com) augments your human (or acts as your AI SDR with human approval). Its playbook review modes are configurable. Confirm the active setting before sending.
 
 **Our take:** Full automation works for high-volume, lower-ACV motions. For $20k-$100k+ ACV deals where one bad email can cost you the relationship, human approval matters.
 
@@ -124,7 +124,7 @@ Mach GTM sends and monitors reply
   ↓
 On reply: Mach GTM notifies you, you take over
   ↓
-CRM (Salesforce/HubSpot) updated automatically
+Verify the permitted CRM operation and its actual result
 ```
 
 ### Pattern 2: List → Enrich → Sequence
@@ -141,6 +141,14 @@ Reply → AE takes over
 ```
 
 ---
+
+## Current Mach terms and evaluation
+
+Mach works with design partners and early adopters. Obtain [current terms](https://machgtm.com/pricing) for your scope. The other budget figures in this guide are planning estimates and require current vendor quotes before purchase.
+
+- [AI SDR pricing and billing units](https://machgtm.com/blog/ai-sales-agent-pricing-total-cost)
+- [Pilot evaluation and scorecard](https://machgtm.com/blog/ai-sdr-pilot-scorecard)
+- [CRM readiness and connection rehearsal](https://machgtm.com/blog/crm-data-readiness-sales-automation)
 
 ## How to Evaluate a Tool
 
@@ -170,4 +178,4 @@ PRs welcome: add tools, correct pricing, share stack experiences.
 
 ---
 
-*Maintained by the community. No paid placements.*
+*Maintained alongside MachGTM. Contributors should disclose vendor relationships.*
