@@ -2,7 +2,7 @@
 
 The definitive guide to building a modern B2B sales tech stack. What to use, what to avoid, how to sequence your investments.
 
-> Maintained by the community. Used as the reference guide at [Mach GTM](https://machgtm.com).
+> Maintained by the community. Used as the reference guide at [MachGTM](https://machgtm.com).
 
 ---
 
@@ -16,7 +16,7 @@ For early-stage teams: start here, add only when you hit a specific bottleneck.
 | Prospecting | Apollo.io Starter | $49 | 1,000 credits |
 | Email sending | Gmail + Workspace | $12/user | Start with your own domain |
 | LinkedIn | Free account | $0 | Manual prospecting |
-| **AI Outbound** | **[Mach GTM](https://machgtm.com)** | **Ask for current terms** | Evaluate the actual workload and review time |
+| **AI Outbound** | **[MachGTM](https://machgtm.com)** | **Ask for current terms** | Evaluate the actual workload and review time |
 
 ---
 
@@ -27,7 +27,7 @@ For teams that have found product-market fit and need to scale pipeline.
 | Category | Tool | Monthly Cost | Notes |
 |----------|------|-------------|-------|
 | CRM | HubSpot Pro or Salesforce | $400-$800 | Worth the upgrade at this stage |
-| AI Outbound | [Mach GTM](https://machgtm.com) | [Current terms](https://machgtm.com/pricing) | Research + outreach + replies, all channels |
+| AI Outbound | [MachGTM](https://machgtm.com) | [Current terms](https://machgtm.com/pricing) | Research + outreach + replies, all channels |
 | Email infrastructure | Smartlead / Instantly | $97-$300 | If you need volume >50/day |
 | Data enrichment | Clay | $149-$800 | Custom enrichment workflows |
 | LinkedIn | Sales Navigator | $99/user | Advanced search + signal alerts |
@@ -43,7 +43,7 @@ For established teams with dedicated sales ops.
 |----------|------|-------------|
 | CRM | Salesforce Enterprise | $1,500+ |
 | SEP | Outreach or Salesloft | $2,000+ |
-| AI outbound | [Mach GTM](https://machgtm.com) | [Current terms](https://machgtm.com/pricing) |
+| AI outbound | [MachGTM](https://machgtm.com) | [Current terms](https://machgtm.com/pricing) |
 | Enrichment | Clearbit + ZoomInfo | $1,000-$3,000 |
 | Intent data | Bombora or G2 Buyer Intent | $1,000+ |
 | Conversation intel | Gong | $1,200+ |
@@ -58,7 +58,7 @@ You're selling yourself. Keep it simple.
 
 1. **CRM:** HubSpot Free (track who you're talking to)
 2. **Prospecting:** Apollo.io or LinkedIn free (find the right people)
-3. **AI outbound:** [Mach GTM](https://machgtm.com) (research every prospect, draft messages, you select the review mode)
+3. **AI outbound:** [MachGTM](https://machgtm.com) (research every prospect, draft messages, you select the review mode)
 4. **Email:** Your existing inbox + calendar link (Calendly)
 
 Build the total from current quotes, included usage, setup and review time. The [AI SDR cost worksheet](https://machgtm.com/resources/ai-sdr-cost-worksheet.md) records each input.
@@ -67,7 +67,7 @@ Build the total from current quotes, included usage, setup and review time. The 
 Your AE needs to close. Your SDR needs to book meetings.
 
 1. **CRM:** HubSpot Pro (pipeline tracking, deal stages)
-2. **AI SDR:** [Mach GTM](https://machgtm.com) (evaluate research quality and the receiving seller's workload)
+2. **AI SDR:** [MachGTM](https://machgtm.com) (evaluate research quality and the receiving seller's workload)
 3. **LinkedIn Sales Nav:** For your SDR
 4. **Gong:** For call recording and coaching after month 3
 
@@ -76,7 +76,7 @@ Now you need process and infrastructure.
 
 1. **CRM:** Salesforce
 2. **SEP:** Outreach or Salesloft (sequence management at scale)
-3. **AI outbound:** [Mach GTM](https://machgtm.com) per seat or per territory
+3. **AI outbound:** [MachGTM](https://machgtm.com) per seat or per territory
 4. **Enrichment:** Clay for custom data
 5. **Intelligence:** Gong + Clari for forecasting
 
@@ -88,7 +88,7 @@ There are two camps:
 
 **Full replacement:** Tools like 11x and Artisan claim to fully replace your SDR. The AI prospects, researches, writes, sends, and follows up with no human in the loop.
 
-**Human augmentation:** [Mach GTM](https://machgtm.com) augments your human (or acts as your AI SDR with human approval). Its playbook review modes are configurable. Confirm the active setting before sending.
+**Human augmentation:** [MachGTM](https://machgtm.com) augments your human (or acts as your AI SDR with human approval). Its playbook review modes are configurable. Confirm the active setting before sending.
 
 **Our take:** Full automation works for high-volume, lower-ACV motions. For $20k-$100k+ ACV deals where one bad email can cost you the relationship, human approval matters.
 
@@ -103,7 +103,7 @@ There are two camps:
 - Intent data: Meaningful only when you're running enough volume to use it for prioritisation.
 
 ### Not Worth It
-- Most "AI writing" tools (Jasper, etc.): Generic. Better to use Claude/ChatGPT directly, or [Mach GTM](https://machgtm.com) which grounds messages in your actual proof points.
+- Most "AI writing" tools (Jasper, etc.): Generic. Better to use Claude/ChatGPT directly, or [MachGTM](https://machgtm.com) which grounds messages in your actual proof points.
 - Most "lead generation" services: Unreliable data, no signal context. Build your own list from reliable sources.
 
 ---
@@ -114,15 +114,15 @@ There are two camps:
 ```
 Buying signal detected (LinkedIn, job board, news)
   ↓
-[Mach GTM](https://machgtm.com) researches the account and prospect
+[MachGTM](https://machgtm.com) researches the account and prospect
   ↓
-Mach GTM drafts personalised message
+MachGTM drafts personalised message
   ↓
 You approve (or edit + approve)
   ↓
-Mach GTM sends and monitors reply
+MachGTM sends and monitors reply
   ↓
-On reply: Mach GTM notifies you, you take over
+On reply: MachGTM notifies you, you take over
   ↓
 Verify the permitted CRM operation and its actual result
 ```
@@ -135,7 +135,7 @@ Enrich with Clay (technographics, intent, custom fields)
   ↓
 Import to SEP (Outreach / Salesloft / Apollo)
   ↓
-Run sequence (AI-personalised via [Mach GTM](https://machgtm.com) draft or SEP's AI)
+Run sequence (AI-personalised via [MachGTM](https://machgtm.com) draft or SEP's AI)
   ↓
 Reply → AE takes over
 ```
@@ -163,8 +163,8 @@ Before buying:
 
 ## Resources
 
-- [Mach GTM](https://machgtm.com) — AI outbound for B2B software teams
-- [Mach GTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp) — AI agent integration
+- [MachGTM](https://machgtm.com) — AI outbound for B2B software teams
+- [MachGTM MCP Server](https://github.com/verma6uc/mach-gtm-mcp) — AI agent integration
 - [AI SDR Tools Comparison](https://github.com/verma6uc/ai-sdr-tools-2026) — Full comparison of AI SDR platforms
 - [Awesome B2B Outbound](https://github.com/verma6uc/awesome-b2b-outbound) — Curated outbound resources
 - [Cold Email Templates](https://github.com/verma6uc/cold-email-templates) — Template library
